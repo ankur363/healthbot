@@ -1,4 +1,4 @@
-import React from 'react';
+
 import { ArrowRight, Brain, Heart, Shield, Activity, Zap } from 'lucide-react';
 import { Button } from './ui/button';
 import { motion } from 'framer-motion';
